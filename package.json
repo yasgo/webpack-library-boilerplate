@@ -1,0 +1,23 @@
+{
+    "name": "webpack-library-boilerplate",
+    "description": "Webpack boilerplate for write javascript library.",
+    "version": "1.0.0",
+    "author": "Yasin Kalkan <yasinburakkalkan@gmail.com> (https://yasinkalkan.com/)",
+    "tags": [
+        "library"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yasgo/webpack-library-boilerplate.git"
+    },
+    "main": "index.js",
+    "scripts": {
+        "webpack": "webpack -p"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "~2.4.1"
+    },
+    "optionalDependencies": {},
+    "license": "BSD-3-Clause"
+}
